@@ -9,8 +9,28 @@ body {
 	margin-left:-100px;
 }
 .banner {
-    color: #F3BF94;
+    color: black;
     text-align: center;
-    opacity: 0.6;
-    background-image: url("")
+    background-image: url("http://ih1.redbubble.net/image.202128019.1061/sticker,220x200-pad,220x200,ffffff.jpg")
+}
+#aboutcole1 {
+    background-color: #859CD1;
+    opacity: 0.70;
+    padding: 10px;
+}
+.img1{
+   background-color: #000442;#B57668;
+    text-align: center;
+    opacity: 0.88;
+}
+#aboutcole2 {
+    background-color: #F3BF94;
+    opacity: 0.7;
+    padding: 5px;
+    text-align: center;
+}
+.img2{
+   background-color: #000442;#B57668;
+    text-align: center;
+    opacity: 0.88;
 }
