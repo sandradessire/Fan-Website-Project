@@ -18,7 +18,8 @@ body {
     background-color: #6DB4C7;
     opacity: 0.9;
     padding: 10px;
-    text-align: cente
+    text-align: center;
+    border-radius: 25px;
 }
 .img2{
     text-align: center;
@@ -27,11 +28,10 @@ body {
     background-color: #6DB4C7;
     opacity: 0.9;
     padding: 10px;
-    
+    text-align: center;
+    border-radius: 25px;
+    padding-top: 25px;
 }
-.img3{
-text-align: center;
-}
-.img4{
-text-align: center;
+.img8{
+    text-align: center;
 }
