@@ -7,12 +7,20 @@ body {
 	top:100px;
 	left:50%;
 	margin-left:-100px;
+    background-color: #6DB4C7 ;
 }
-.banner {
-    color: black;
-    text-align: center;
-    background-image: url("")
-    background-color: 
+nav:hover {
+    background-color: azure;
+}
+.crop {
+    width: 10px;
+    height: 50px;
+    overflow: hidden;
+}
+.crop img {
+    width: 50px;
+    height: 100px;
+    margin: -75px 0 0 -100px;
 }
 #aboutcole1 {
     background-color: #6DB4C7;
@@ -23,6 +31,9 @@ body {
 }
 .img2{
     text-align: center;
+    background-color: #6DB4C7;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 #aboutcole2 {
     background-color: #6DB4C7;
