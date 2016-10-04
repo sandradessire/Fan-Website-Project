@@ -1,6 +1,9 @@
 body {
     background-image: url("http://66.media.tumblr.com/468543512c7195eedbac0823262bb9b5/tumblr_nrikh40I5B1tm50y3o10_1280.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 #navbar{
 	position: fixed;
@@ -12,15 +15,9 @@ body {
 nav:hover {
     background-color: azure;
 }
-.crop {
-    width: 10px;
-    height: 50px;
-    overflow: hidden;
-}
-.crop img {
-    width: 50px;
-    height: 100px;
-    margin: -75px 0 0 -100px;
+.img1{
+    padding: 20px;
+    text-align: center;
 }
 #aboutcole1 {
     background-color: #6DB4C7;
@@ -34,6 +31,7 @@ nav:hover {
     background-color: #6DB4C7;
     padding-bottom: 10px;
     padding-top: 10px;
+    
 }
 #aboutcole2 {
     background-color: #6DB4C7;
@@ -45,4 +43,7 @@ nav:hover {
 }
 .img8{
     text-align: center;
+}
+.footer{
+    padding-top: 20px;
 }
