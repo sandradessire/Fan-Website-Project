@@ -9,16 +9,7 @@ body {
 	position: fixed;
 	top:100px;
 	left:50%;
-	margin-left:-100px;
-    background-color: #6DB4C7 ;
-}
-nav:hover {
-    background-color: azure;
-}
-.img1{
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
+	margin-left:-100pxfont-;
 }
 #aboutcole1 {
     background-color: #6DB4C7;
@@ -26,18 +17,19 @@ nav:hover {
     padding: 10px;
     text-align: center;
     border-radius: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+    margin: 10px;
 }
 .img2{
     text-align: center;
-    background-color: #6DB4C7;
     opacity: .9;
-    border-style:none;
-    border-bottom: 10px;
-    border-left: 20px;
-    border-right: 20px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    
+    border-radius: 25px;
+    background-color: #6DB4C7;
+    margin: 10px;
+    padding: 10px;
+    padding-left: 20px; 
+    padding-right: 20px;
 }
 #aboutcole2 {
     background-color: #6DB4C7;
@@ -46,6 +38,8 @@ nav:hover {
     text-align: center;
     border-radius: 25px;
     padding-top: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
 }
 .img3{
     background-color: #6DB4C7;
@@ -58,6 +52,8 @@ nav:hover {
     text-align: center;
 }
 .footer{
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    font-size: 16px ;
+    font-family: 'Source Sans Pro', sans-serif;
 }
