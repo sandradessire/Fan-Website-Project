@@ -1,0 +1,45 @@
+body {
+    background-image: url("http://66.media.tumblr.com/468543512c7195eedbac0823262bb9b5/tumblr_nrikh40I5B1tm50y3o10_1280.jpg");fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+h1.title{
+    background-color: #6DB4C7; 
+    padding: 10px;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    opacity: .8;
+}
+#navbar{
+	position: fixed;
+	top:100px;
+	left:50%;
+	margin-left:-100px;
+}
+.img{
+    text-align: center;
+    border-radius: 25px;
+    background-color: #6DB4C7;
+    margin: 10px;
+    padding: 10px;
+}
+p.forest{
+    background-color: #6DB4C7;
+    font-family: 'Slabo 27px', serif;
+    font-size: 30px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 25px;
+    opacity: .85;
+}
+.img8{
+    text-align: center;
+}
+.footer{
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    font-size: 16px ;
+    font-family: 'Source Sans Pro', sans-serif;
+}

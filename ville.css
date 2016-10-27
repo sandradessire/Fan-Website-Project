@@ -4,49 +4,29 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
-}
+} 
 #navbar{
 	position: fixed;
 	top:100px;
 	left:50%;
-	margin-left:-100pxfont-;
+	margin-left:-100px;
+    background-color: #6DB4C7 ;
 }
-#aboutcole1 {
-    background-color: #6DB4C7;
-    opacity: 0.9;
-    padding: 10px;
+.img{
     text-align: center;
-    border-radius: 25px;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 17px;
-    margin: 10px;
-}
-.img2{
-    text-align: center;
-    opacity: .95;
     border-radius: 25px;
     background-color: #6DB4C7;
     margin: 10px;
     padding: 10px;
-    padding-left: 10px; 
-    padding-right: 10px;
 }
-#aboutcole2 {
+#revenge{
     background-color: #6DB4C7;
-    opacity: 0.9;
-    padding: 10px;
-    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+    margin: 10px;
+    padding: 15px;
     border-radius: 25px;
-    padding-top: 25px;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 17px;
-}
-.img3{
-    background-color: #6DB4C7;
-    padding: 10px;
-    text-align: center;
-    border-radius: 25px;
-    padding-top: 10px;
+    opacity: .85;
 }
 .img8{
     text-align: center;
