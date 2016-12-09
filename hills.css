@@ -18,6 +18,9 @@ h1.title{
 	left:50%;
 	margin-left:-100px;
 }
+.item{
+    height: 300px;
+}
 .img{
     text-align: center;
     border-radius: 25px;
