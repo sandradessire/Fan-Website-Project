@@ -19,6 +19,22 @@
         <title>Cole World</title>
         <meta name="description" content="An interactive getting started guide for Brackets.">
         <link rel="stylesheet" href="main.css">
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Resizable - Default functionality</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <style>
+  #resizable { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable h3 { text-align: center; margin: 0; }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#resizable" ).resizable();
+  } );
+  </script>
     </head>
     <body>
         <nav class="navbar navbar-default">
@@ -47,11 +63,10 @@
                 <div id class="col-md-2">
                 </div>
                 <div class="col-md-8">
-                    <div id="jcole">
-                        <img src="http://static.tumblr.com/2a0unfi/vxWm0cyyo/coleworld.png" height="150px" align="middle">
+                    <div id="resizable" class="ui-widget-content">
+                        <h3 class="ui-widget-header"><img src="http://static.tumblr.com/2a0unfi/vxWm0cyyo/coleworld.png" height="150px" align="middle"></h3>
                     </div>
                 </div>
-            </div>
             </div>
             <div class="row">
                     <div id class="col-md-8">
