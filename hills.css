@@ -18,8 +18,9 @@ h1.title{
 	left:50%;
 	margin-left:-100px;
 }
-.item{
-    height: 300px;
+.carousel-inner img{
+    height: 250px;
+    margin: auto;
 }
 .img{
     text-align: center;
